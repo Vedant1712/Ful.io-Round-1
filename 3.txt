@@ -1,0 +1,7 @@
+A]Reverse-i-search allows a user to through the history of executed commands and search for a particular string within those executed commands.
+
+B]ls -a
+
+C]Yes, I am comfortable with using Linux-based Operating System.
+
+D]No, I have not used any servers to host web applications.
